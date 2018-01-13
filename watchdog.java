@@ -1,7 +1,9 @@
 package watchdog;
 
 import anywheresoftware.b4a.BA;
-import anywheresoftware.b4a.BA.*;
+import anywheresoftware.b4a.BA.ShortName;
+import anywheresoftware.b4a.BA.Version;
+import anywheresoftware.b4a.BA.DependsOn;
 
 import com.github.anrwatchdog.ANRError;
 import com.github.anrwatchdog.ANRWatchDog;
