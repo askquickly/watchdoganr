@@ -1,4 +1,4 @@
-WatchDog ANR
+A simple watchdog that detects Android ANRs (Application Not Responding) for B4A
 
 Usage:
 
